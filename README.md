@@ -34,7 +34,7 @@ This is Kartik Gokhale, a third-year undergraduate in the Department of Computer
 #### :computer: Languages and Skills: 
 <p>
   
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AWorldOfChaos&show_icons=true&hide_border=true" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AWorldOfChaos&show_icons=true&hide_border=true&theme=dark" />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
