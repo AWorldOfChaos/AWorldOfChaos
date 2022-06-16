@@ -20,14 +20,13 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kartikgokhale2000@gmail.com)
 
-Hi There! This is Kartik Gokhale, a third-year undergraduate in the Department of Computer Science Engineering at IIT Bombay.
+This is Kartik Gokhale, a third-year undergraduate in the Department of Computer Science Engineering at IIT Bombay.
 
 
 
 #### 🔭 Research Stuff I'm working on:
   - Human Action Recognition;
   - Super Resolution;
-  - 
 #### 🌱 Development Stuff
   - Aethero Scribo - Blog of Student Support Services, IIT Bombay
   - SIMPLE - Simplified Interactive Material for Pleasant Learning Experiences
