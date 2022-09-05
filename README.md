@@ -25,10 +25,10 @@ This is Kartik Gokhale, a third-year undergraduate in the Department of Computer
 
 
 #### 🔭 Research Stuff I'm working on:
-  - Human Action Recognition;
+  - Human Action Recognition
   - Quantitative Research and Modelling 
-  - Super Resolution;
-  - Analysing Bacterial Motility Patterns;
+  - Super Resolution
+  - Analysing Bacterial Motility Patterns
   - Instance Segmentation
   
 #### 🌱 Development Stuff
