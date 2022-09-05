@@ -26,8 +26,11 @@ This is Kartik Gokhale, a third-year undergraduate in the Department of Computer
 
 #### 🔭 Research Stuff I'm working on:
   - Human Action Recognition;
+  - Quantitative Research and Modelling 
   - Super Resolution;
-  - Image Processing for Analysing Bacterial Motility Patterns;
+  - Analysing Bacterial Motility Patterns;
+  - Instance Segmentation
+  
 #### 🌱 Development Stuff
   - Aethero Scribo - Blog of Student Support Services, IIT Bombay
   - SIMPLE - Simplified Interactive Material for Pleasant Learning Experiences
