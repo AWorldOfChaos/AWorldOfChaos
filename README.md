@@ -23,8 +23,12 @@ Here are some ideas to get you started:
 This is Kartik Gokhale, a third-year undergraduate in the Department of Computer Science Engineering at IIT Bombay.
 
 
-
 #### 🔭 Research Stuff I'm working on:
+  - Stackelberg Games
+  - Stable Matchings
+  - Risk Aversion in Reinforcement Learning
+
+#### 🔭 Research Stuff I've worked on:
   - Human Action Recognition
   - Quantitative Research and Modelling 
   - Super Resolution
