@@ -26,7 +26,7 @@ This is Kartik Gokhale, a final undergraduate in the Department of Computer Scie
 #### 🔭 Research Stuff I'm working on:
   - Stackelberg Games
   - Stable Matchings
-  - Risk Aversion in Reinforcement Learning
+  - Graph Hashing
 
 #### 🔭 Research Stuff I've worked on:
   - Human Action Recognition
@@ -34,6 +34,7 @@ This is Kartik Gokhale, a final undergraduate in the Department of Computer Scie
   - Super Resolution
   - Analysing Bacterial Motility Patterns
   - Instance Segmentation
+  - Risk Aversion in Reinforcement Learning
   
 #### 🌱 Development Stuff
   - Aethero Scribo - Blog of Student Support Services, IIT Bombay
